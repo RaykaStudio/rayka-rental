@@ -27,7 +27,7 @@ https://github.com/matthias18771/v-vehicle-images
 
 🔗 **Video**
 
-https://youtu.be/Gj1QQ0X4B0A
+https://youtu.be/s_L75xpWVqo
 
 ---
 
