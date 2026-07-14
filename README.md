@@ -27,7 +27,7 @@ If you don't have vehicle images, you can download the complete vehicle image pa
 
 🔗 **Video**
 
-`VIDEO LINK`
+https://youtu.be/Gj1QQ0X4B0A
 
 ---
 
