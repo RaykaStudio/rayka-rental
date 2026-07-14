@@ -23,14 +23,6 @@ If you don't have vehicle images, you can download the complete vehicle image pa
 
 ---
 
-## 📥 Download
-
-🔗 **Script Download**
-
-`SCRIPT LINK`
-
----
-
 ## 🎥 Preview
 
 🔗 **Video**
