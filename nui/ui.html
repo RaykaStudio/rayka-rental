@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rayka Development</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+    <link rel="stylesheet" href="ui.css">
+</head>
+<body class="asccochi-body">
+
+    <div id="asccochi-interact-container" style="display: none;">
+        <div class="asccochi-interact-wrapper">
+            <div class="asccochi-key-box" id="asccochi-key-el" style="display: none;">
+                <span>E</span>
+            </div>
+            <div class="asccochi-text-box" id="asccochi-text-el" style="display: none;">
+                <span class="asccochi-interact-title">VIEW RENTAL</span>
+            </div>
+        </div>
+    </div>
+
+    <div id="asccochi-main-container" style="display: none;">
+        <div class="asccochi-wrapper">
+            <div class="asccochi-top-bar">
+                <div class="asccochi-title-section">
+                    <div class="asccochi-icon-badge">
+                        <i class="fa-solid fa-key asccochi-key-icon"></i>
+                    </div>
+                    <div class="asccochi-title-text">
+                        <span id="asccochi-rental-name">VEHICLE RENTAL</span>
+                        <span class="asccochi-sub-text">RAYKA DEVELOPMENT</span>
+                    </div>
+                </div>
+                <div class="asccochi-search-section">
+                    <div class="asccochi-duration-badge">
+                        <i class="fa-regular fa-clock"></i>
+                        <span>24H RENTAL</span>
+                    </div>
+                    <div class="asccochi-search-input-wrapper">
+                        <input type="text" id="asccochi-search" placeholder="SEARCH VEHICLE...">
+                        <i class="fa-solid fa-magnifying-glass asccochi-search-icon"></i>
+                    </div>
+                </div>
+            </div>
+
+            <div class="asccochi-content-area">
+                <div class="asccochi-categories" id="asccochi-tabs-holder"></div>
+                <div class="asccochi-grid" id="asccochi-vehicles-holder"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="rayka/jquery.min.js"></script>
+    <script src="ui.js"></script>
+</body>
+</html>
