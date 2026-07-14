@@ -19,7 +19,7 @@ If you don't have vehicle images, you can download the complete vehicle image pa
 
 🔗 **Vehicle Image Pack**
 
-`IMAGE PACK LINK`
+https://github.com/matthias18771/v-vehicle-images
 
 ---
 
